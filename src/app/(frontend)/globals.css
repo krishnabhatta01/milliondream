@@ -14,6 +14,8 @@
   }
 
   :root {
+    --font-body: 'Jost', sans-serif;
+    --font-jost: 'Jost', sans-serif;
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
 
